@@ -1,0 +1,45 @@
+{
+  "Version": "1.00",
+  "IsDarkTheme": false,
+  "ProductVersion": "1.29",
+  "References": {
+    "Items": [
+      "Microsoft.CSharp",
+      "System",
+      "System.Core",
+      "System.Data",
+      "System.Data.DataSetExtensions",
+      "System.Deployment",
+      "System.IO",
+      "System.Linq",
+      "System.Net.Http",
+      "System.Text.Encoding",
+      "System.Web",
+      "System.Windows.Forms",
+      "System.Xml"
+    ]
+  },
+  "Folders": [
+    {
+      "RelativePath": "",
+      "Folders": [],
+      "Files": [
+        {
+          "RelativePath": "1C_main.process",
+          "Main": true,
+          "Showing": true,
+          "Pinned": false
+        },
+        {
+          "RelativePath": "Почта.process",
+          "Main": false,
+          "Showing": true,
+          "Pinned": false
+        }
+      ],
+      "Links": []
+    }
+  ],
+  "Files": [],
+  "Links": []
+}

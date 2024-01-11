@@ -1,0 +1,86 @@
+﻿{
+  "Version": "1.00",
+  "IsDarkTheme": true,
+  "ProductVersion": "1.31",
+  "References": {
+    "Items": [
+      "Microsoft.CSharp",
+      "System",
+      "System.Core",
+      "System.Data",
+      "System.Data.DataSetExtensions",
+      "System.Deployment",
+      "System.IO",
+      "System.Linq",
+      "System.Net.Http",
+      "System.Text.Encoding",
+      "System.Web",
+      "System.Windows.Forms",
+      "System.Xml"
+    ]
+  },
+  "Properties": {
+    "Description": "",
+    "InParams": [],
+    "OutParams": []
+  },
+  "Folders": [
+    {
+      "RelativePath": "",
+      "Folders": [],
+      "Files": [
+        {
+          "RelativePath": "main.process",
+          "Main": true,
+          "Showing": true,
+          "Pinned": false
+        },
+        {
+          "RelativePath": "Выбор периода.process",
+          "Main": false,
+          "Showing": true,
+          "Pinned": false
+        },
+        {
+          "RelativePath": "Получение списка контрагентов.process",
+          "Main": false,
+          "Showing": true,
+          "Pinned": false
+        },
+        {
+          "RelativePath": "Получение списка на вход.process",
+          "Main": false,
+          "Showing": true,
+          "Pinned": false
+        },
+        {
+          "RelativePath": "Почта.process",
+          "Main": false,
+          "Showing": true,
+          "Pinned": false
+        },
+        {
+          "RelativePath": "Работа с локальной папкой.process",
+          "Main": false,
+          "Showing": true,
+          "Pinned": false
+        },
+        {
+          "RelativePath": "Создание отчета1.process",
+          "Main": false,
+          "Showing": true,
+          "Pinned": false
+        },
+        {
+          "RelativePath": "Сохранение PDF(Архивно).process",
+          "Main": false,
+          "Showing": true,
+          "Pinned": false
+        }
+      ],
+      "Links": []
+    }
+  ],
+  "Files": [],
+  "Links": []
+}

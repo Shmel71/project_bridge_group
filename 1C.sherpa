@@ -1,7 +1,7 @@
-{
+﻿{
   "Version": "1.00",
-  "IsDarkTheme": false,
-  "ProductVersion": "1.29",
+  "IsDarkTheme": true,
+  "ProductVersion": "1.31",
   "References": {
     "Items": [
       "Microsoft.CSharp",
@@ -18,6 +18,11 @@
       "System.Windows.Forms",
       "System.Xml"
     ]
+  },
+  "Properties": {
+    "Description": "",
+    "InParams": [],
+    "OutParams": []
   },
   "Folders": [
     {
